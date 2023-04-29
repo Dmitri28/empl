@@ -6,8 +6,6 @@ using MyProject.Controllers;
 using Controllers;
 using MyProject;
 
-[Route("[controller]")]
-[ApiController]
 public class HomeController : Controller
     {
 
